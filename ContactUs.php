@@ -80,22 +80,22 @@ include "menu.php"
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="6%"><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td width="94%"><strong>Job Portal<br/>
-                    Near Road,<br/>
-                    Your City<br/>
-                    Pincode:000000</strong></td>
+                    <td width="94%"><strong>Dhairya Chandra<br/>
+
+                    Chandigarh<br/>
+                    Pincode: 160061</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Mobile: YourNumber</strong></td>
+                    <td><strong>Mobile: 869XXXXXXX</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Email: YourEmail</strong></td>
+                    <td><strong>Email: dhairyachandra@outlook.com</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Website:YourWebsite</strong></td>
+                    <td><strong>Website: <a href="http://www.medhairya.com">medhairya.com</a></strong></td>
                   </tr>
                 </table>
 
