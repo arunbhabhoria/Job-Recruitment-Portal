@@ -2,7 +2,7 @@
 # FileName="Connection_php_mysql.htm"
 # Type="MYSQL"
 # HTTP="true"
-$hostname_job = "project6sem-mysqldbserver.mysql.database.azure.com";
+$hostname_job = "project6sem-mysqldbserver.mysql.database.azure.com:3306";
 $database_job = "job";
 $username_job = "dhairya@project6sem-mysqldbserver";
 $password_job = "Pratyaksh@1442";
