@@ -2,7 +2,7 @@
 # FileName="Connection_php_mysql.htm"
 # Type="MYSQL"
 # HTTP="true"
-$hostname_job = "127.0.0.1:49885";
+$hostname_job = "6semproject.database.windows.net";
 $database_job = "job";
 $username_job = "azure";
 $password_job = "";
